@@ -19,3 +19,6 @@ Creates cursed texture packs for minecraft
 ```
 - save and close ``pack.mcmeta`` and launch minecraft, go to options - texturepacks and apply the new pack
 - enjoy cursed minecraft
+
+## Video
+[![Video](https://cdn-b-east.streamable.com/image/ha9lq.jpg?token=MJjQH09UJF8-mhIgaet1fw&expires=1564359420)](https://streamable.com/s/ha9lq/oaimhy)
