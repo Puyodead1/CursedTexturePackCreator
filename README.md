@@ -6,6 +6,7 @@ Creates cursed texture packs for minecraft
 - copy the entire ``assets`` folder from winrar or 7-zip into the resourcepack folder you created earlier
 - copy the ``assets`` folder in ``.minecraft\resourcepacks\your resource pack`` and name the copy ``default_assets``
 - open ``assets\minecraft`` and delete the ``textures`` folder
+- edit the java file and change ``CursedMinecraft`` to the name of the folder you made
 - run this program and it should copy and scramble the textures from ``default_assets`` to ``assets``
 - after the program is finished, create a new file called ``pack.mcmeta`` in along side the ``assets`` folder, open ``pack.mcmeta`` with a program like notepad++, the content should be like the following:
 ```
