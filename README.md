@@ -21,4 +21,4 @@ Creates cursed texture packs for minecraft
 - enjoy cursed minecraft
 
 ## Video
-[![Video](https://cdn-b-east.streamable.com/image/ha9lq.jpg?token=MJjQH09UJF8-mhIgaet1fw&expires=1564359420)](https://streamable.com/s/ha9lq/oaimhy)
+[![Video](https://cdn-b-east.streamable.com/image/ha9lq.jpg?token=MJjQH09UJF8-mhIgaet1fw&expires=1564359420)](https://streamable.com/ha9lq)
